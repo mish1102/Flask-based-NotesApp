@@ -3,7 +3,7 @@
 ## Setup & Installtion
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/mish1102/Flask-based-NotesApp.git
 ```
 
 ```bash
